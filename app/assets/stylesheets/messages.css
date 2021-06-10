@@ -29,7 +29,6 @@
   color: deepskyblue;
   text-decoration: none;
 }
-
 .rooms {
   background-color: #2F3E51;
   height: calc(100vh - 100px);
@@ -39,12 +38,10 @@
 .room {
   padding: 20px 0 40px;
 }
-
 .room-name a {
-  color: white;
   text-decoration: none;
+  color: white;
 }
-
 .chat {
   background-color: #FFFFFF;
   width: calc(100vw - 300px);
